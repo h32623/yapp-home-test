@@ -45,7 +45,7 @@
 }
 
 .container {
-    max-width: 1260px;
+    max-width: 65.6%;
     margin: 0 auto;
 }
 
@@ -87,8 +87,10 @@
 }
 
 .intro_img {
-    height: 68px;
-    width: 68px;
+    /* 일단 크기 고정으로 해둠 (나중에 em 사이즈로 변경하기) */
+    height: 45px;
+    width: 45px;
+    margin-right: 15px !important;
 }
 
 #activity .activity_content .col {
@@ -101,5 +103,5 @@
 
 #project .project_intro_txt {
     margin-top: 80px;
-    margin-bottom: 180px;
+    margin-bottom: 80px;
 }
