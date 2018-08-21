@@ -20,7 +20,7 @@
         };
 
         $('#chronicle-carousel').slick({
-            initialSlide : 14,
+            initialSlide : 15,
             centerMode: true,
             prevArrow : '<img class="pc-only" src="YAPPWebPage/public/img/chronicles/arrow_back.png" ' +
             'style="height: 60px; position: absolute; top:50%; left: -20px; z-index: 20">',
