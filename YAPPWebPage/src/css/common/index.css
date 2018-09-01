@@ -351,11 +351,7 @@ div.activity_end {
 
 
 #introduction>.intro_content h4 {
-<<<<<<< HEAD
-    font-size: 1.125em;    /* 18px */
-=======
     font-size: 1em;    /* 16px */
->>>>>>> 43cbb4c82515e60a134b70df031f3701834f1fb6
     font-weight: 600;
     letter-spacing: -.05em;
     text-align: center;
@@ -363,13 +359,8 @@ div.activity_end {
 }
 
 #introduction>.intro_content p {
-<<<<<<< HEAD
     font-size: 0.875em;   /* 14px */
     font-weight: 100;
-=======
-    font-size: 0.75em;   /* 12px */
-    font-weight: 300;
->>>>>>> 43cbb4c82515e60a134b70df031f3701834f1fb6
     line-height: 1.5;
     letter-spacing: -0.9px;
     text-align: center;
