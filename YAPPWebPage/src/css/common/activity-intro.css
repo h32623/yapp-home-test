@@ -4,6 +4,13 @@ p.activity_title{
 }
 
 p.activity_title2 {
-    font-weight: bold;
+    /* font-weight: bold; */
+    font-family: 'NanumBarunGothicBold' !important;
     color: black;
+}
+
+p.activity_detail {
+    font-family: 'NanumBarunGothicLight' !important;
+    color: #4a4a4a;
+    font-size: 14px;
 }

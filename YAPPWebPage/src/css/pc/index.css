@@ -1,14 +1,15 @@
 
 .yp_main_nav {
     position: relative;
-    margin: 15px auto;
+    margin: 35px auto;
     padding: 0 0 0 0 ;
     width: 1260px;
 }
 
 .about_img {
-    width: 406px;
-    height: 112px
+    object-fit:contain;
+    max-height: 100%;
+    max-width: 100%;
 }
 
 .navbar-brand {
@@ -21,7 +22,8 @@
 
 .yapp-carousel p{
     text-align: left;
-    font-size: 35px;
+    font-size: 38px;
+    font-family: 'NanumBarunGothicUltraLight' !important;
 }
 
 .yapp-carousel {
@@ -30,12 +32,10 @@
     margin: 0 auto;
     width: 1260px;
     color: white;
-    font-weight: 300;
 }
 
 .yp_main_nav .navbar-nav>li>a {
-    /* color: #000000 !important; */
-    color: #9f9f9f !important;
+    color: #000000 !important;
 }
 
 .yp_main_content section:not(#introduction) {
@@ -66,6 +66,7 @@
 
 .activity-description-container {
     padding-top: 20px;
+    margin: 18px 18px 32px 18px;
 }
 
 .activity-description-container p{
